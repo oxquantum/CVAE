@@ -1,0 +1,76 @@
+2020-01-15 16:15:10,548 : INFO : __main__ : Data from HDF5 loaded
+2020-01-15 16:15:10,549 : INFO : __main__ : Data from HDF5 loaded
+2020-01-15 16:15:10,602 : INFO : __main__ : Preprocessor constructed
+2020-01-15 16:15:10,602 : INFO : __main__ : Model built
+2020-01-15 16:15:14,930 : INFO : __main__ : Net built
+2020-01-15 16:15:15,114 : INFO : __main__ : Data loaded to preprocessor, beginning training - epochs: 30
+2020-01-15 16:15:18,472 : INFO : __main__ : Data from HDF5 loaded
+2020-01-15 16:15:18,472 : INFO : __main__ : Data from HDF5 loaded
+2020-01-15 16:19:17,274 : INFO : __main__ : Data from HDF5 loaded
+2020-01-15 16:19:17,274 : INFO : __main__ : Data from HDF5 loaded
+2020-01-15 16:21:07,933 : INFO : __main__ : Data from HDF5 loaded
+2020-01-15 16:21:07,933 : INFO : __main__ : Data from HDF5 loaded
+2020-01-15 16:21:07,982 : INFO : __main__ : Preprocessor constructed
+2020-01-15 16:21:07,982 : INFO : __main__ : Model built
+2020-01-15 16:21:12,194 : INFO : __main__ : Net built
+2020-01-15 16:21:12,370 : INFO : __main__ : Data loaded to preprocessor, beginning training - epochs: 30
+2020-01-15 16:21:45,416 : INFO : __main__ : Data from HDF5 loaded
+2020-01-15 16:21:45,416 : INFO : __main__ : Data from HDF5 loaded
+2020-01-16 10:39:07,099 : INFO : __main__ : Data from HDF5 loaded
+2020-01-16 10:39:07,100 : INFO : __main__ : Data from HDF5 loaded
+2020-01-16 10:39:07,193 : INFO : __main__ : Preprocessor constructed
+2020-01-16 10:39:07,194 : INFO : __main__ : Model built
+2020-01-16 10:39:15,849 : INFO : __main__ : Net built
+2020-01-16 10:39:16,033 : INFO : __main__ : Data loaded to preprocessor, beginning training - epochs: 30
+2020-01-16 11:53:52,848 : INFO : __main__ : Data from HDF5 loaded
+2020-01-16 11:53:52,850 : INFO : __main__ : Data from HDF5 loaded
+2020-01-16 11:53:52,901 : INFO : __main__ : Preprocessor constructed
+2020-01-16 11:53:52,901 : INFO : __main__ : Model built
+2020-01-16 11:54:17,359 : INFO : __main__ : Data from HDF5 loaded
+2020-01-16 11:54:17,359 : INFO : __main__ : Data from HDF5 loaded
+2020-01-16 11:54:17,408 : INFO : __main__ : Preprocessor constructed
+2020-01-16 11:54:17,408 : INFO : __main__ : Model built
+2020-01-16 11:56:13,389 : INFO : __main__ : Data from HDF5 loaded
+2020-01-16 11:56:13,389 : INFO : __main__ : Data from HDF5 loaded
+2020-01-16 11:56:13,436 : INFO : __main__ : Preprocessor constructed
+2020-01-16 11:56:13,436 : INFO : __main__ : Model built
+2020-01-16 12:11:43,068 : INFO : __main__ : Data from HDF5 loaded
+2020-01-16 12:11:43,069 : INFO : __main__ : Data from HDF5 loaded
+2020-01-16 12:11:43,157 : INFO : __main__ : Preprocessor constructed
+2020-01-16 12:11:43,157 : INFO : __main__ : Model built
+2020-01-16 12:16:15,968 : INFO : __main__ : Data from HDF5 loaded
+2020-01-16 12:16:15,968 : INFO : __main__ : Data from HDF5 loaded
+2020-01-16 12:16:16,020 : INFO : __main__ : Preprocessor constructed
+2020-01-16 12:16:16,020 : INFO : __main__ : Model built
+2020-01-16 12:27:20,829 : INFO : __main__ : Data from HDF5 loaded
+2020-01-16 12:27:20,829 : INFO : __main__ : Data from HDF5 loaded
+2020-01-16 12:27:20,881 : INFO : __main__ : Preprocessor constructed
+2020-01-16 12:27:20,882 : INFO : __main__ : Model built
+2020-01-16 12:27:24,984 : INFO : __main__ : Net built
+2020-01-16 12:27:25,171 : INFO : __main__ : Data loaded to preprocessor, beginning training - epochs: 30
+2020-01-16 12:32:51,427 : INFO : __main__ : Data from HDF5 loaded
+2020-01-16 12:32:51,429 : INFO : __main__ : Data from HDF5 loaded
+2020-01-16 12:32:51,482 : INFO : __main__ : Preprocessor constructed
+2020-01-16 12:32:51,483 : INFO : __main__ : Model built
+2020-01-16 16:39:52,486 : INFO : __main__ : Data from HDF5 loaded
+2020-01-16 16:39:52,486 : INFO : __main__ : Data from HDF5 loaded
+2020-01-16 16:39:52,565 : INFO : __main__ : Preprocessor constructed
+2020-01-16 16:39:52,565 : INFO : __main__ : Model built
+2020-01-16 16:41:07,265 : INFO : __main__ : Data from HDF5 loaded
+2020-01-16 16:41:07,266 : INFO : __main__ : Data from HDF5 loaded
+2020-01-16 16:41:07,347 : INFO : __main__ : Preprocessor constructed
+2020-01-16 16:41:07,347 : INFO : __main__ : Model built
+2020-01-16 16:41:28,240 : INFO : __main__ : Data from HDF5 loaded
+2020-01-16 16:41:28,240 : INFO : __main__ : Data from HDF5 loaded
+2020-01-16 16:41:28,292 : INFO : __main__ : Preprocessor constructed
+2020-01-16 16:41:28,292 : INFO : __main__ : Model built
+2020-01-16 16:59:20,357 : INFO : __main__ : Data from HDF5 loaded
+2020-01-16 16:59:20,358 : INFO : __main__ : Data from HDF5 loaded
+2020-01-16 16:59:20,423 : INFO : __main__ : Preprocessor constructed
+2020-01-16 16:59:20,423 : INFO : __main__ : Model built
+2020-01-16 17:12:13,684 : INFO : __main__ : Data from HDF5 loaded
+2020-01-16 17:12:13,685 : INFO : __main__ : Data from HDF5 loaded
+2020-01-16 17:12:13,739 : INFO : __main__ : Preprocessor constructed
+2020-01-16 17:12:13,739 : INFO : __main__ : Model built
+2020-01-16 17:12:18,032 : INFO : __main__ : Net built
+2020-01-16 17:12:18,236 : INFO : __main__ : Data loaded to preprocessor, beginning training - epochs: 30
